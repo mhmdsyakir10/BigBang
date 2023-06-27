@@ -16,7 +16,7 @@ with BIG BANG. Generate the array and output to ‘output.json’ file with resu
 *[“1”, “2”, “BIG”, “4”, “BANG”, “BIG”, “7”, “8”, “BIG”, “BANG”, “11”, “BIG”, “13”, “14”, “BIGBANG”,
 .... all the way to 100]*
 
-# Guide to Run The Scripts using Visual Sudio Code
+# Guide to Run The Scripts using Visual Sudio Code (Make Sure to have Visual Studio Code Installed)
 1. Click the Link Given:
 ```
 https://github.com/mhmdsyakir10/BigBang
