@@ -31,3 +31,17 @@ https://github.com/mhmdsyakir10/BigBang
 9. Run the 'output.json' file with Visual Studio Code and you can see the output will be shown
 
 
+# Guide to Run The Scripts using Google Colaboratory
+1. Click the Link Given:
+```
+https://github.com/mhmdsyakir10/BigBang
+```
+2. Click the "Versa Asia Challenges.ipynb"
+3. Copy the code
+4. Open Google Colaboratory in Chrome and create a new notebook
+5. Paste the code and run by clicking the run symbol beside the code
+6. After done running the code, the file "output.json" will automaticly create and you can search it in the folder
+7. Run the output by clicking the "output.json"
+8. 
+
+
