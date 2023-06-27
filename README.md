@@ -39,9 +39,12 @@ https://github.com/mhmdsyakir10/BigBang
 2. Click the "Versa Asia Challenges.ipynb"
 3. Copy the code
 4. Open Google Colaboratory in Chrome and create a new notebook
-5. Paste the code and run by clicking the run symbol beside the code
-6. After done running the code, the file "output.json" will automatically create and you can search it in the folder icon in the left side panel of the code
-7. ![alt text](https://github.com/mhmdsyakir10/BigBang/blob/main/Folder%20Example.PNG)
-8. Run the output by clicking the "output.json"
+```
+https://colab.google/
+```
+6. Paste the code and run by clicking the run symbol beside the code
+7. After done running the code, the file "output.json" will automatically create and you can search it in the folder icon in the left side panel of the code
+8. ![alt text](https://github.com/mhmdsyakir10/BigBang/blob/main/Folder%20Example.PNG)
+9. Run the output by clicking the "output.json"
 
 
